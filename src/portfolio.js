@@ -1,2 +1,2 @@
-// Portfolio loaded successfully
-console.log("Portfolio loaded for Ganga Bharadwaj.");
+// Portfolio data can be loaded dynamically here in future if needed
+console.log("Portfolio loaded successfully!");
